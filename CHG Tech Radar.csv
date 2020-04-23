@@ -1,47 +1,51 @@
 name,quadrant,ring,isNew,description
-Express,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
-Java,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
-Javascript,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
-Node,languages-and-frameworks,Adopt,FALSE,<p>More description to come</p>
-PactIO,languages-and-frameworks,Trial,TRUE,<p>More description to come</p>
-SpringBoot,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
-SuperTest,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
-Vue,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
 AWS Parameter Store,Platforms,Trial,TRUE,<p>More description to come</p>
 AWS Secrets Manager,Platforms,Trial,TRUE,<p>More description to come</p>
+Cassandra,Platforms,Assess,TRUE,<p>Wide-Columnar Store consideration</p>
 Cert Manager,Platforms,Trial,TRUE,<p>More description to come</p>
+CHG CLI,Tools,Assess,TRUE,<p>More description to come</p>
 Consul,Platforms,Trial,TRUE,<p>More description to come</p>
-DNS,Platforms,Trial,FALSE,<p>More description to come</p>
-DynamoDB,Platforms,Adopt,TRUE,<p>More description to come</p>
-EKS,Platforms,Adopt,TRUE,<p>More description to come</p>
-EKS UI / Dashboard,Platforms,Assess,TRUE,<p>More description to come</p>
-Elasticsearch,Platforms,Trial,TRUE,<p>More description to come</p>
-GitHub,Platforms,Assess,TRUE,"<p>GitHub Enterprise, as our source code repository, as well as GitHub Packages and GitHub Actions/Workflows</p>"
-Istio,Platforms,Trial,TRUE,<p>More description to come</p>
-K8s DB as a Service,Platforms,Adopt,TRUE,<p>More description to come</p>
-Kubernetes Parameter Store,Platforms,Trial,TRUE,<p>More description to come</p>
-Kubernetes Secrets Store,Platforms,Trial,TRUE,<p>More description to come</p>
-MSK,Platforms,Adopt,TRUE,<p>More description to come</p>
-Okta,Platforms,Adopt,FALSE,<p>Authentication and Authorization strategy internally as well as externally</p>
-RDS,Platforms,Adopt,TRUE,<p>More description to come</p>
-S3,Platforms,Adopt,FALSE,<p>More description to come</p>
-Transit Gateway,Platforms,Trial,TRUE,<p>More description to come</p>
-Vault,Platforms,Trial,TRUE,<p>More description to come</p>
-VPC,Platforms,Trial,TRUE,<p>More description to come</p>
 Consumer Driven Contract Testing,Techniques,Adopt,TRUE,<p>More description to come</p>
 Data Hub,Techniques,Hold,TRUE,<p>More description to come</p>
+DNS,Platforms,Trial,FALSE,<p>More description to come</p>
+DynamoDB,Platforms,Adopt,TRUE,<p>More description to come</p>
+EKS UI / Dashboard,Platforms,Assess,TRUE,<p>More description to come</p>
+EKS,Platforms,Adopt,TRUE,<p>More description to come</p>
+Elasticsearch,Platforms,Trial,TRUE,<p>More description to come</p>
 Event Driven,Techniques,Trial,FALSE,<p>More description to come</p>
 Event Sourcing,Techniques,Assess,TRUE,<p>More description to come</p>
+Express,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
+GitHub,Platforms,Adopt,TRUE,"<p>GitHub Enterprise, as our source code repository, as well as GitHub Packages and GitHub Actions/Workflows</p>"
 Graph Database,Techniques,Trial,TRUE,<p>More description to come</p>
 IaaS,Techniques,Hold,TRUE,<p>More description to come</p>
 IaC,Techniques,Trial,TRUE,<p>More description to come</p>
+Istio,Platforms,Trial,TRUE,<p>More description to come</p>
+Java,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
+Javascript,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
+K8s DB as a Service,Platforms,Adopt,TRUE,<p>More description to come</p>
+Kubernetes Parameter Store,Platforms,Trial,TRUE,<p>More description to come</p>
+Kubernetes Secrets Store,Platforms,Trial,TRUE,<p>More description to come</p>
 Logging,Techniques,Trial,TRUE,<p>More description to come</p>
 Monitoring,Techniques,Adopt,TRUE,<p>More description to come</p>
+MongoDB,Platforms,Assess,TRUE,<p>NoSQL Database standard consideration</p>
+MSK,Platforms,Adopt,TRUE,<p>More description to come</p>
+Node,languages-and-frameworks,Adopt,FALSE,<p>More description to come</p>
 OIDC,Techniques,Trial,TRUE,<p>OIDC strategy for Okta authentication and authorization with an SPA; in use by some teams</p>
+Okta,Platforms,Adopt,FALSE,<p>Authentication and Authorization strategy internally as well as externally</p>
+PactIO,languages-and-frameworks,Trial,TRUE,<p>More description to come</p>
 Parameter Store,Techniques,Assess,FALSE,<p>More description to come</p>
+PostgreSQL,Platforms,Adopt,TRUE,<p>In use by multiple teams.</p>
+RDS,Platforms,Adopt,TRUE,<p>More description to come</p>
+Redis,Platforms,Assess,TRUE,<p>Caching and key-value store DB</p>
 Relational Database,Techniques,Adopt,FALSE,<p>More description to come</p>
+S3,Platforms,Adopt,FALSE,<p>More description to come</p>
 Secrets Store,Techniques,Assess,TRUE,<p>More description to come</p>
 Service Mesh,Techniques,Assess,TRUE,<p>More description to come</p>
-CHG CLI,Tools,Assess,TRUE,<p>More description to come</p>
+SpringBoot,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
+SuperTest,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
 Terraform,Tools,Trial,TRUE,<p>More description to come</p>
+Transit Gateway,Platforms,Trial,TRUE,<p>More description to come</p>
+Vault,Platforms,Trial,TRUE,<p>More description to come</p>
+VPC,Platforms,Trial,TRUE,<p>More description to come</p>
 VS Code,Tools,Adopt,FALSE,<p>More description to come</p>
+Vue,languages-and-frameworks,Adopt,TRUE,<p>More description to come</p>
